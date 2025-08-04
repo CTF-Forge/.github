@@ -1,6 +1,6 @@
 # CTF Forge
 
-!http://googleusercontent.com/image_generation_content/1
+![ロゴ](./ctf-forge-logo.png)
 
 ---
 
