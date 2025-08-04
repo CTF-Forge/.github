@@ -16,6 +16,18 @@
 * **APIファースト**: バックエンドはRESTful APIとして構築されており、柔軟なフロントエンドとの連携が可能です。
 * **PostgreSQL**: データの永続化に信頼性の高いPostgreSQLを採用しています。
 
+### 使用技術
+
+#### バックエンド
+* **Go**: プログラミング言語
+* **Gin**: Webフレームワーク
+* **GORM**: ORM (Object-Relational Mapping)
+* **PostgreSQL**: データベース
+
+#### フロントエンド
+* **React**: UIライブラリ
+* **Vite**: ビルドツール
+
 ### APIドキュメント
 
 APIの詳細は、アプリケーション起動後にSwagger UIで確認できます。
